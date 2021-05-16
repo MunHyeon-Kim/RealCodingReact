@@ -16,7 +16,7 @@ function App() {
     <Router>
      <div className="App">
          <Header region="KR" cityName={city} />
-         <ul className="menu">
+         <ul className="navigation">
            <li>
              <Link to="/">Home</Link></li>
            <li>
